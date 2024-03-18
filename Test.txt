@@ -11,3 +11,7 @@ the 2 button inerface took mre time to navigation as a result it took longer to 
 the 3 button interface was faster hen compared to 2 button interface but was slow compared to 5 button one. I made few mistakes while clicking the buttons. I had to think sometimes whether to click previous or next button.
 
 the 5 button had almost similar times compared to 3 button interface eventhough it has more buttons moreover, I constantly had to move my hand long distances therfore increasing the fatigue on my hand. I made a lot of mistakes while using this method because I was confused becuase of lot of buttons.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+link for 3buttons calculator: https://kirandhathri-b.github.io/3button/
+
+link for 5buttons calculator: https://kirandhathri-b.github.io/5button/
