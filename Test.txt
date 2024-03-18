@@ -1,0 +1,13 @@
+I created 3 version 2 button, 3 button and 5 button and tested 5 quations on all 3 calculators.
+
+Equation1:21+26*5-14--------------59s,46s,46s
+Equation2:625%2-100+22------------
+Equation3:256*256*128+999---------
+Equation4:900%625+400-126*219----------
+Equation5:562-792+812%454*16----------
+
+the 2 button inerface took mre time to navigation as a result it took longer to calculate the quations. But as it was only 2 button interface I barely had to move my hand to and fro.Thus reducing fatigue on my hand.I hardly made any mistakes while pressing the buttons.
+
+the 3 button interface was faster hen compared to 2 button interface but was slow compared to 5 button one. I made few mistakes while clicking the buttons. I had to think sometimes whether to click previous or next button.
+
+the 5 button had almost similar times compared to 3 button interface eventhough it has more buttons moreover, I constantly had to move my hand long distances therfore increasing the fatigue on my hand. I made a lot of mistakes while using this method because I was confused becuase of lot of buttons.
